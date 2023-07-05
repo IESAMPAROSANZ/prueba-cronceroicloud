@@ -7,14 +7,7 @@ public class App {
     }
 
     public static int sumar(int a, int b) {
-        return a + b;
+        return a + b + 0;
+
     }
 }
-
-// public class Sumar()
-// {
-
-// public int sumar2(int a, int b){
-// return (a + b);
-// }
-// }
